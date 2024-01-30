@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar {
+    background-image: linear-gradient(burlywood, bisque);
+    border-bottom: 2px solid darkslategray;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.nln {
+    display: inline-block;
+    padding: 7px;
+    font-family: "copperplate";
+}
+.navbar-nav {
+    padding-left: 10rem;
+}
+.nav-link {
+    margin: 10px;
+}
+.header {
+    background-image: linear-gradient(wheat, white);
+    padding: 50px;
+    vertical-align: top;
+    text-align: center;
+}
+.top {
+    display: inline-block;
+}
+.top-pic {
+    border-radius: 40px;
+    border: 4px solid black;
+}
+.top-text {
+    padding: 20px;
+}
+.about {
+    background-image: linear-gradient(white, bisque);
+    padding-bottom: 50px;
+    text-align: center;
+}
+.abt {
+    padding-left: 100px;
+}
+.abt-txt {
+    display: inline-block;
+    vertical-align: middle;
+    padding: 15px;
+}
+.projects {
+    background-image: linear-gradient(bisque, white);
+    padding-left: 150px;
+    padding-right: 200px;
+    padding-bottom: 50px;
+
+}
+
+.gsc {
+    padding-right: 120px;
+}
+.proj-txt {
+    display: inline-block;
+    vertical-align: middle;
+    width: 70;
+    padding: 15px;
+}
+.tock {
+    padding-bottom: 2rem;
+    padding-right: 20;
+}
+.ccc {
+    text-align: right;
+}
+.contacts {
+    background-image: linear-gradient(white,wheat);
+    padding-bottom: 50px;
+    text-align: center;
+}
+.card {
+    border-radius: 30px;
+    display: inline-block;
+    margin: 25px;
+    background-color: #00000000;
+    border: -2px solid black;
+}
+
+footer {
+    border-top: 2px solid darkslategray;
+    background-image: linear-gradient(burlywood, bisque);
+    padding: 10px;
+    text-align: center;
+}
+
+.little {
+    margin: 10px;
+}
